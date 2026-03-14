@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://res.cloudinary.com/delhuop9p/image/upload/v1773511305/dem_nifmwz.png" width="150" style="border-radius:50%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Shaik Ahamad Alisha</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
@@ -17,7 +13,7 @@
 
 - 🌱 I’m currently advancing my skills in **Full Stack Development**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about ** HTML CSS JavaScript React.js **
 
 - 📫 How to reach me **ahamadwebdev@gmail.com**
 
@@ -81,4 +77,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </a>
 
+</p>
+
+---
+
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamad-dev&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
