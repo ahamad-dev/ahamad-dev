@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://res.cloudinary.com/delhuop9p/image/upload/v1773511305/dem_nifmwz.png" width="150" style="border-radius:50%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shaik Ahamad Alisha</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
