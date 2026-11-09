@@ -105,7 +105,7 @@ Currently exploring a banking application using Java and Spring Boot.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahamadsk-19909b342">
+  <a href="https://www.linkedin.com/in/ahamad-alisha-shaik/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ahamadwebdev@gmail.com">
@@ -131,4 +131,3 @@ Currently exploring a banking application using Java and Spring Boot.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
 </p>
-```
